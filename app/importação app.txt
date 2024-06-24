@@ -1,0 +1,14 @@
+Node js, v16.20.2
+ npx create-expo-app UltraPopular
+ npm install -g expo-cli
+ npm install 
+ npm run web
+ code.
+ npm install @react-navigation/native
+ npx expo install react-native-screens
+ npm expo install react-native-safe-area-context
+ npm install @react-navigation/native-stack
+ npm install react-native-gesture-handler react-native-reanimated
+ npm install @react-navigation/drawer
+ npm i react-native-paper
+ npm rum web
